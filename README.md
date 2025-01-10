@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: a.malacarne@web.de
-- 😄 Pronouns: what ever you like
+- 😄 why I am always happy: it's in my DNA
 - ⚡ business fact: I already worked for a big German company in the procurement department
 
 <!---
