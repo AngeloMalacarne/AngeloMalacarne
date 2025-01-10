@@ -2,9 +2,9 @@
 - 👀 I’m interested in a lot
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me insta...
+- 📫 How to reach me: a.malacarne@web.de
 - 😄 Pronouns: what ever you like
-- ⚡ Fun fact: see above ;-)
+- ⚡ business fact: I already worked for a big German company in the procurement department
 
 <!---
 AngeloMalacarne/AngeloMalacarne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
